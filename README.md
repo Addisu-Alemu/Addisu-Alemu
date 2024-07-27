@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Welcom to my page.
+I'm Addisu 
+Things I code with 
 <!--
 **Addisu-Alemu/Addisu-Alemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
