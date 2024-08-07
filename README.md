@@ -1,8 +1,8 @@
-### Welcom to my page.
+### Welcome to my page.
 
 <h1 align="center">Hi 👋, I'm Addisu</h1>
 
-
+I am Data Engineer with expertise in Python, object-oriented programming, data pipeline construction, data structures, algorithms, RAG, ETL processes, and data visualization.
 
 <p align="left">
 </p>
